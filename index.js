@@ -15,17 +15,17 @@ const getshape = () => {
     ]).then((response) => { 
         if (response.shape === "Triangle") {
             console.log("getting triangle")
-            const shape = new Triangle ();
+            const shape = new Triangle (response.shape);
             shape.get_logo();
         } 
         else if (response.shape === "Square") {
             console.log("getting square")
-            const shape = new Square ();
+            const shape = new Square (response.shape);
             shape.get_logo();
         } 
         else if (response.shape === "Circle") {
             console.log("getting circle")
-            const shape = new Circle ();
+            const shape = new Circle (response.shape);
             shape.get_logo();
         } 
         else {
@@ -35,6 +35,4 @@ const getshape = () => {
 };
 
 const instruction = getshape();
-//console.log(instruction);
-//const shape_prompt = new Shape ();
-//shape.get_logo();
+
