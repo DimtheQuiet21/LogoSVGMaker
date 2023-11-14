@@ -48,8 +48,7 @@ Link to Alan Lee's LogoSVGMaker: https://github.com/DimtheQuiet21/LogoSVGMaker
 
 ![Screenshot of LogoSVGMaker](./assets/screenshot.png)
 
-Link to Youtube Video Alan Lee's LogoSVGMaker
-![Youtube Clip of LogoSVGMaker](https://www.youtube.com/watch?v=IyBx_yeyaqc)
+Link to Youtube Video Alan Lee's LogoSVGMaker: https://www.youtube.com/watch?v=IyBx_yeyaqc
 
 ## Questions?
 Please Contact Alan Lee at aflee227@gmail.com if you have additional questions.
