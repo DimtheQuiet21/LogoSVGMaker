@@ -1,5 +1,5 @@
 
         <svg xmlns="http://www.w3.org/2000/svg" height="200" width = "300">
-            <polygon points="150,10 46,190 254,190" style = "fill: red; stroke-width:3"/>
-            <text x = "150" y = "185" text-anchor = "middle" fill = "red" font-size = "70">asd</text>
+            <polygon points="150,10 46,190 254,190" style = "fill: white; stroke-width:3"/>
+            <text x = "150" y = "185" text-anchor = "middle" fill = "purple" font-size = "70">lkg</text>
         </svg>
